@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A002E</color>
+    <color name="colorPrimaryDark">#3A002E</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="orangeLight">#FB8C00</color>
+
+    <color name="cream_dark">#EBEBEB</color>
+    <color name="cream">#AAEDEDED</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#999999</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="super_gray">#E0E0E0</color>
+    <color name="yellow">#FFFF8C</color>
+    <color name="green">#4CAF50</color>
+
+    <color name="highlight">#FFE0B2</color>
+    <color name="highlight_orange">#FFB74D</color>
+    <color name="purple">#7B1FA2</color>
+
+    <color name="cardview_dark_background">#AA000000</color>
+    <color name="cardview_light_background">#FFFAFAFA</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+</resources>

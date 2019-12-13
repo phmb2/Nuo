@@ -1,0 +1,45 @@
+<resources>
+
+    <!--Nome do aplicativo-->
+    <string name="app_name">Nuo</string>
+
+    <!--Títulos das telas-->
+    <string name="titulo_principal_foto">Nuo - Fotos</string>
+    <string name="titulo_adicionar_foto">Adicionar Foto</string>
+    <string name="titulo_detalhes_foto">Foto</string>
+    <string name="titulo_editar_foto">Editando: Foto</string>
+
+    <!--Tela AdicionarFotoActivity-->
+    <string name="data_foto_criada">Criada em</string>
+    <string name="data_foto_atualizada">Atualizada em</string>
+
+    <!--Tela DetalhesFotoActivity-->
+    <string name="action_compartilhar_foto">Compartilhar Foto</string>
+    <string name="action_editar_foto">Editar Foto</string>
+
+    <!--Mensagem do AlertDialog/AdicionarFotoActivity-->
+    <string name="please_erro_descricao">Por favor, insira a descrição da foto.</string>
+
+    <string name="adicionar_descricao">Digite a descrição da foto aqui…</string>
+    <string name="inserir_foto">Inserir</string>
+    <string name="salvar_foto">Salvar</string>
+
+    <!--Dialog => Foto-->
+    <string name="tirarFoto">Tirar Foto</string>
+    <string name="galeriaFoto">Galeria</string>
+    <string name="escolha_foto">Escolha da Foto</string>
+
+    <!--Dialogs-->
+    <string name="botao_Sim">Sim</string>
+    <string name="botao_Nao">Não</string>
+    <string name="mensagem_deletar_foto">Você quer remover essa foto e sua descrição?</string>
+    <string name="mensagem_foto_deletada">Foto removida com sucesso!</string>
+    <string name="botao_OK">OK</string>
+
+    <!--FotoAdapter -->
+    <string name="botao_adiciona_foto">Salvar Foto</string>
+
+    <!--Notificação-->
+    <string name="texto_notificacao">Fotos não concluídas. Adicione fotos!</string>
+
+</resources>
